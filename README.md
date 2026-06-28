@@ -12,6 +12,15 @@ My work lives where technical depth, business judgment, regulatory pressure, and
 
 The through-line is execution ownership: modernization usually fails when the work is under-owned, under-structured, or automated before it is controlled.
 
+## Follow the build
+
+I am documenting the GeekTheGreyBeard build work across a few public channels:
+
+- **YouTube:** https://www.youtube.com/@GeekTheGreyBeard - long-form build logs, walkthroughs, lessons learned, and the story behind PatriciAI, OpenClaw, GPUStack, custom ROM work, local AI infrastructure, automation, and the stack as it evolves.
+- **Instagram:** https://www.instagram.com/geekthegreybeard/ - proof-of-work visuals, short clips, setup shots, branded stills, quick lessons, and behind-the-scenes progress.
+- **GitHub Pages:** https://geekthegreybeard.github.io/ - public field notes, project context, ecosystem pages, and the broader operating record.
+- **GitHub:** https://github.com/GeekTheGreyBeard - source repositories, project shells, experiments, and technical artifacts.
+
 ## Current direction
 
 - **RASi** - the parent authority brand for embedded leadership, control, and intelligent execution. Healthcare is the earned proof base; the broader direction is helping high-trust operations eliminate friction between technology, workflows, governance, automation, and decision-making.
